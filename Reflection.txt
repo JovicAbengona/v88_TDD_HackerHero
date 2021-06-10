@@ -1,0 +1,11 @@
+TDD vs Non-TDD
+
+    While I was reading about TDD, my main thought was "It's like OOP. Bad for small projects, great for big projects".
+And it's true becuase TDD is very time consuming and you won't feel its benefits on small projects because there aren't much to test in the first place.
+But it's more beneficial for bigger projects because of TDD's scalability.
+
+    With TDD, you will already know if your planned approach will actually work and because of this you can design better code. You'll be able to come up
+with better algorithm and your code will be more readable too. It will greatly improve your attention to detail as well. 
+
+    All in all, I think TDD and writing tests for our code is really important because it will greatly lessen the time we need to debug our code
+because TDD makes debugging a lot faster.
